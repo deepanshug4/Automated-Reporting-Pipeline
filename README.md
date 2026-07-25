@@ -5,9 +5,8 @@ An end-to-end data pipeline that **extracts** data, **validates** it,
 designed to run unattended on a schedule.
 
 📸 
-<img width="1783" height="706" alt="image" src="https://github.com/user-attachments/assets/9843e2b7-24e7-44db-9c37-a5052578e74f" />
-<img width="1783" height="706" alt="image" src="https://github.com/user-attachments/assets/5586d35e-cb4b-477c-a7a1-fc979c3e5cae" />
-
+<img width="1831" height="759" alt="Screenshot 2026-07-26 015348" src="https://github.com/user-attachments/assets/4158b751-a6ce-4ec6-83b1-80c25f5c91b2" />
+<img width="1803" height="699" alt="Screenshot 2026-07-26 015423" src="https://github.com/user-attachments/assets/a2497419-c2d9-46a5-8650-9a14cc66270d" />
 
 ## The problem
 Teams waste hours each week manually pulling data and rebuilding the same
