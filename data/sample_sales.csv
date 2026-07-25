@@ -1,1 +1,13 @@
-
+date,region,product,units,revenue
+2026-05-01,North,Widget,120,2400.00
+2026-05-01,South,Widget,90,1800.00
+2026-05-01,North,Gadget,60,3000.00
+2026-05-02,South,Gadget,75,3750.00
+2026-06-01,North,Widget,140,2800.00
+2026-06-01,South,Widget,80,1600.00
+2026-06-01,North,Gadget,55,2750.00
+2026-06-02,South,Gadget,70,3500.00
+2026-07-01,North,Widget,100,2000.00
+2026-07-01,South,Widget,60,1200.00
+2026-07-01,North,Gadget,40,2000.00
+2026-07-02,South,Gadget,50,2500.00
