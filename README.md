@@ -4,7 +4,10 @@ An end-to-end data pipeline that **extracts** data, **validates** it,
 **computes business metrics**, and **generates a report automatically** —
 designed to run unattended on a schedule.
 
-📸 _Add a screenshot of the generated HTML report / dashboard here._
+📸 
+<img width="1783" height="706" alt="image" src="https://github.com/user-attachments/assets/9843e2b7-24e7-44db-9c37-a5052578e74f" />
+<img width="1783" height="706" alt="image" src="https://github.com/user-attachments/assets/5586d35e-cb4b-477c-a7a1-fc979c3e5cae" />
+
 
 ## The problem
 Teams waste hours each week manually pulling data and rebuilding the same
